@@ -1,5 +1,7 @@
 /* Jonathan Che CS-112 12/12/2014
  * 
+ * This is a test commit
+ * 
  * The purpose of the Board class is to hold variables and methods that would be useful for a general rectangular board.
  * It consists of a 2D array of Cells, which each hold a boolean array of flags. I use the Board for Minesweeper in this
  * case, and as such I only wrote class methods that would be useful for Minesweeper. One could imagine using this
